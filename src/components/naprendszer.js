@@ -39,6 +39,7 @@ function Naprendszer() {
       </div>
 
       <article>
+        <img src={KeplerImage} alt="Johannes Kepler portréja" />
         <h3>Johannes Kepler</h3>
         <p>
           A nagy német csillagász be akarta bizonyítani, hogy a bolygók
@@ -49,7 +50,6 @@ function Naprendszer() {
           megfogalmazásához. A Kepler-törvények máig is az égi mechanika
           alapját képezik.
         </p>
-        <img src={KeplerImage} alt="Johannes Kepler portréja" />
       </article>
 
       <h3>Dátumok</h3>
