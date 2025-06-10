@@ -1,6 +1,6 @@
 // src/components/Galaxisok.js
 import React from 'react';
-import '../style/galaxisok.css'; // Hozd létre ezt a CSS fájlt a stílusoknak
+import '../style/style.css'; // Hozd létre ezt a CSS fájlt a stílusoknak
 import Spiral_Galaxy_NGC_1232 from '../img/Spiral_Galaxy_NGC_1232.jpg';
 import galaxistipusok from '../img/galaxistipusok.jpg';
 import Hubble from '../img/Hubble.jpg';
@@ -8,7 +8,7 @@ import Hubble from '../img/Hubble.jpg';
 function Galaxisok() {
   return (
     <div className="galaxisok-container">
-      <header>
+      <header id="gal">
         <h1>A galaxisok</h1>
         <h3>Anyagszigetek a világegyetemben</h3>
       </header>

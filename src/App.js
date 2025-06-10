@@ -12,6 +12,7 @@ import Galaxisok from './components/Galaxisok';
 
 function App() {
   return (
+    // itt jelezzük, hogy a repó URL-ben a repó neve után kezdődjön a routing
     <Router basename={process.env.PUBLIC_URL}>
     <div className="App">
       <Nav />

@@ -1,6 +1,6 @@
 // src/components/csillagok.js
 import React from 'react';
-import '../style/csillagok.css';
+import '../style/style.css';
 import RhoOphiuchi from '../img/RhoOphiuchi.jpg'; // Helyes útvonalat adj meg a képekhez
 import HRdiagram from '../img/HRdiagram.jpg'; // Helyes útvonalat adj meg a képekhez
 import fenye from '../img/fenye.jpg'; // Helyes útvonalat adj meg a képekhez
@@ -8,7 +8,7 @@ import fenye from '../img/fenye.jpg'; // Helyes útvonalat adj meg a képekhez
 function Csillagok() {
   return (
     <div className="csillagok-container"> {/* Egy konténer div az egész komponensnek */}
-      <header>
+      <header id="csill">
         <h1>A csillagok</h1>
         <h3>Sokszínű fények az égen</h3>
       </header>

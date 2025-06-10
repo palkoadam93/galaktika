@@ -1,13 +1,13 @@
 // src/components/Urutazas.js
 import React from 'react';
-import '../style/urutazas.css'; // Hozd létre ezt a CSS fájlt a stílusoknak
+import '../style/style.css'; // Hozd létre ezt a CSS fájlt a stílusoknak
 import holdra from '../img/holdra.jpg';
 import Wernher_von_Braun from '../img/Wernher_von_Braun.jpg';
 
 function Urutazas() {
   return (
     <div className="urutazas-container">
-      <header>
+      <header id="urut">
         <h1>Űrutazás és holdraszállás</h1>
         <h3>"Kis lépés egy embernek..."</h3>
       </header>

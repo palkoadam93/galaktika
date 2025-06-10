@@ -7,10 +7,13 @@ body {
 }
 
 header {
-    background-image: url('../img/csillagok.jpg');
     height: 50%;
     padding: 1em;
 }
+#gal{background-color: blue;}
+#urut{background-image: url('../img//holdkep.jpg');}
+#napr{background-image: url('../img/Naprendszer.jpg');}
+#csill{background-image: url('../img/csillagok.jpg');}
 
 h1 {
     font-family: Impact;

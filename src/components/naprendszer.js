@@ -1,13 +1,13 @@
 // src/components/Naprendszer.js
 import React from 'react';
-import '../style/naprendszer.css'; // Hozd létre ezt a CSS fájlt a stílusoknak
+import '../style/style.css'; // Hozd létre ezt a CSS fájlt a stílusoknak
 import meretaranyos from '../img/meretaranyos.jpg';
 import KeplerImage from '../img/Kepler.jpg'; // Átneveztem a jobb olvashatóság kedvéért
 
 function Naprendszer() {
   return (
     <div className="naprendszer-container">
-      <header>
+      <header id="napr">
         <h1>A Naprendszer</h1>
         <h3>Egy csillag, és kísérői, a bolygók</h3>
       </header>
@@ -38,7 +38,7 @@ function Naprendszer() {
         </p>
       </div>
 
-      <section id="Kepler">
+      <article>
         <h3>Johannes Kepler</h3>
         <p>
           A nagy német csillagász be akarta bizonyítani, hogy a bolygók
@@ -50,7 +50,7 @@ function Naprendszer() {
           alapját képezik.
         </p>
         <img src={KeplerImage} alt="Johannes Kepler portréja" />
-      </section>
+      </article>
 
       <h3>Dátumok</h3>
       <ul>
