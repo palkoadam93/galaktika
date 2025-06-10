@@ -1,0 +1,60 @@
+body {
+    width: 60%;
+    margin:auto;
+    font-family: 'Arial Narrow';
+    text-align: justify;
+    /*background-color:teal;*/
+}
+
+header {
+    background-color: blue;
+    height: 50%;
+    padding: 1em;
+}
+
+h1 {
+    font-family: Impact;
+    font-size: 3em;
+    text-align: center;
+    color: white;
+}
+
+img {
+    width:100%;
+}
+
+header h3 {
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+}
+
+article {
+    overflow: auto;
+    border: 1px solid;
+    padding: 2em;
+    background-color: grey;
+}
+
+article img {
+    width: 40%;
+    float:left;
+}
+
+article p {
+    width: 50%;
+    float: right;
+}
+
+ul {
+    background-color:aqua;
+    padding: 2em;
+    font-weight: bold;
+}
+
+.tudtad {
+    background-color: khaki;
+    margin: 2em;
+    padding: 2em;
+    font-family:'Gill Sans MT';
+}
