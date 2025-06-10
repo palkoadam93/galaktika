@@ -2,7 +2,7 @@
 import React from 'react';
 import '../style/urutazas.css'; // Hozd létre ezt a CSS fájlt a stílusoknak
 import holdra from '../img/holdra.jpg';
-import Wernher_von_Braun from '../assets/Urutazas/Wernher_von_Braun.jpg';
+import Wernher_von_Braun from '../img/Wernher_von_Braun.jpg';
 
 function Urutazas() {
   return (
