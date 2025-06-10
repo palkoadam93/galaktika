@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/galaktika/static/css/main.f855e6bc.css",
-    "main.js": "/galaktika/static/js/main.5508aadb.js",
+    "main.css": "/galaktika/static/css/main.14157421.css",
+    "main.js": "/galaktika/static/js/main.0581ed3b.js",
     "static/js/453.384673eb.chunk.js": "/galaktika/static/js/453.384673eb.chunk.js",
-    "static/media/logo.svg": "/galaktika/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/RhoOphiuchi.jpg": "/galaktika/static/media/RhoOphiuchi.797beaeaf0caaa9d4222.jpg",
+    "static/media/fenye.jpg": "/galaktika/static/media/fenye.3cd6fd555d280181dce9.jpg",
+    "static/media/galaxistipusok.jpg": "/galaktika/static/media/galaxistipusok.a8964113f517f77a992a.jpg",
+    "static/media/holdra.jpg": "/galaktika/static/media/holdra.1e515558f0e1084aba49.jpg",
+    "static/media/holdkep.jpg": "/galaktika/static/media/holdkep.e6e32c26469600ba7580.jpg",
+    "static/media/Hubble.jpg": "/galaktika/static/media/Hubble.76565eb4fe2005a1c831.jpg",
+    "static/media/Naprendszer.jpg": "/galaktika/static/media/Naprendszer.1657ae600e77384d5098.jpg",
+    "static/media/csillagok.jpg": "/galaktika/static/media/csillagok.a5afb0531ae26ec4499f.jpg",
+    "static/media/Kepler.jpg": "/galaktika/static/media/Kepler.dd374607b7835553a087.jpg",
+    "static/media/Wernher_von_Braun.jpg": "/galaktika/static/media/Wernher_von_Braun.f14fafa399e0160809ea.jpg",
+    "static/media/HRdiagram.jpg": "/galaktika/static/media/HRdiagram.6d8c2c33220e0422259f.jpg",
+    "static/media/meretaranyos.jpg": "/galaktika/static/media/meretaranyos.1d3339dd8aaf0af57599.jpg",
+    "static/media/Spiral_Galaxy_NGC_1232.jpg": "/galaktika/static/media/Spiral_Galaxy_NGC_1232.34d40cf32ac708113be7.jpg",
     "index.html": "/galaktika/index.html",
-    "main.f855e6bc.css.map": "/galaktika/static/css/main.f855e6bc.css.map",
-    "main.5508aadb.js.map": "/galaktika/static/js/main.5508aadb.js.map",
+    "main.14157421.css.map": "/galaktika/static/css/main.14157421.css.map",
+    "main.0581ed3b.js.map": "/galaktika/static/js/main.0581ed3b.js.map",
     "453.384673eb.chunk.js.map": "/galaktika/static/js/453.384673eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5508aadb.js"
+    "static/css/main.14157421.css",
+    "static/js/main.0581ed3b.js"
   ]
 }
