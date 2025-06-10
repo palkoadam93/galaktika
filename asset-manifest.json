@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/galaktika/static/css/main.14157421.css",
-    "main.js": "/galaktika/static/js/main.1032842e.js",
+    "main.css": "/galaktika/static/css/main.a1afc6e6.css",
+    "main.js": "/galaktika/static/js/main.3aedd4ee.js",
     "static/js/453.384673eb.chunk.js": "/galaktika/static/js/453.384673eb.chunk.js",
     "static/media/RhoOphiuchi.jpg": "/galaktika/static/media/RhoOphiuchi.797beaeaf0caaa9d4222.jpg",
     "static/media/fenye.jpg": "/galaktika/static/media/fenye.3cd6fd555d280181dce9.jpg",
@@ -17,12 +17,12 @@
     "static/media/meretaranyos.jpg": "/galaktika/static/media/meretaranyos.1d3339dd8aaf0af57599.jpg",
     "static/media/Spiral_Galaxy_NGC_1232.jpg": "/galaktika/static/media/Spiral_Galaxy_NGC_1232.34d40cf32ac708113be7.jpg",
     "index.html": "/galaktika/index.html",
-    "main.14157421.css.map": "/galaktika/static/css/main.14157421.css.map",
-    "main.1032842e.js.map": "/galaktika/static/js/main.1032842e.js.map",
+    "main.a1afc6e6.css.map": "/galaktika/static/css/main.a1afc6e6.css.map",
+    "main.3aedd4ee.js.map": "/galaktika/static/js/main.3aedd4ee.js.map",
     "453.384673eb.chunk.js.map": "/galaktika/static/js/453.384673eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14157421.css",
-    "static/js/main.1032842e.js"
+    "static/css/main.a1afc6e6.css",
+    "static/js/main.3aedd4ee.js"
   ]
 }
